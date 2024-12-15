@@ -25,6 +25,10 @@ This project provides a simple, modular TypeScript script to transfer the entire
 
 1. Clone the repository to your local machine.
 
+    ```bash
+    https://github.com/codeesura/vana-transfer-bot.git
+    ```
+
 2. Install dependencies:
 
    ```bash
